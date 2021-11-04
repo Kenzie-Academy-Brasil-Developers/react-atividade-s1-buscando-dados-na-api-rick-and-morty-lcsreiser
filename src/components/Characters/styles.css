@@ -1,0 +1,9 @@
+.divContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.divContainer h2 {
+  width: 100%;
+  text-align: center;
+}
